@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Logo{
+    width: 20vw;
+}
+
+header{
+    background-color: #ffdee9;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.Servico{
+    border: solid 3px black;
+    width: 300px;
+    height: 300px;
+}
+
+.Servico img{
+    width: 100%;
+    height: 65%;
+}
+
+section{
+    border: solid 2px red;
+    display: flex;
+    justify-content: space-evenly;
+    height: 100vh;
+    align-items: center;
+}
